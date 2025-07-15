@@ -12,7 +12,7 @@
 // **/
 
 
-#string STR_PACKAGE_ABSTRACT            #language en-US "Module implementations for FAT file system, FAT 32 UEFI Driver and FAT PEI Module"
+#string STR_PACKAGE_ABSTRAC            #language en-US "Module implementations for FAT file system, FAT 32 UEFI Driver and FAT PEI Module"
 
 #string STR_PACKAGE_DESCRIPTION         #language en-US "This Package contains module implementation about FAT file system, FAT 32 UEFI Driver and FAT PEI Module."
 
